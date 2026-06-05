@@ -1,0 +1,16 @@
+{
+  "name": "microservice-9-activity-logging",
+  "version": "1.0.0",
+  "description": "**Microservice 9 — Activity Logging / Audit Trail**\r **User Story 1 — Record User Activity**\r As a developer, I want to log important user actions so I can track system behavior and diagnose issues.",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
