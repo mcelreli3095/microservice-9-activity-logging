@@ -1,5 +1,7 @@
 **Microservice 9 — Activity Logging / Audit Trail**
+
 **User Story 1 — Record User Activity**
+
 As a developer, I want to log important user actions so I can track system behavior and diagnose issues.
 
 **Acceptance Criteria**
@@ -13,6 +15,7 @@ As a developer, I want to log important user actions so I can track system behav
 - Scalability: Must support high‑volume logging.
 
 **User Story 2 — Retrieve Activity Logs**
+
 As a developer, I want to request logs for a user or time range so I can review system usage.
 
 **Acceptance Criteria**
